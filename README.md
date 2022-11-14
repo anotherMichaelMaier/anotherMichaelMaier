@@ -6,14 +6,14 @@
 
  
 #### Topics I'm intrested in: ####
-| Topics | Emoji  |
-|--------|--------|
-Games             |   🕹   
-Cars              |   🏎️   
-Cocktails         |   🍹   
-Series/Movies     |   🎬   
+Topics|Emoji
+|---|---|
+Games         | 🕹   
+Cars          | 🏎️   
+Cocktails     | 🍸
+Series/Movies | 🎬   
 
-![Albert Einstein](https://images.unsplash.com/photo-1603349206295-dde20617cb6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80)
+<img src="https://images.unsplash.com/photo-1603349206295-dde20617cb6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80" width=50% height=50%>
 
 _“The measure of intelligence is the ability to change.”_ 
 — Albert Einstein
