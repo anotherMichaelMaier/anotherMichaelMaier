@@ -1,21 +1,21 @@
-# 👋🏼 Hello world, I'm Michael 🧑‍💻
+# 👋🏼 Hello world, I'm Michael 🧑‍💻 
 
   🍸  - I used to be a bartender <br>
   💻  - I’m currently learning how to code<br>
       ↪️ @neueFische web development bootcamp
 
  
-#### Topics I'm intrested in: ####
+### I'm intrested in:
 Topics|Emoji
-|---|---|
+|:--|:-:|
 Games         | 🕹   
 Cars          | 🏎️   
 Cocktails     | 🍸
 Series/Movies | 🎬   
+<br>
+<img src="https://images.unsplash.com/photo-1603349206295-dde20617cb6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80" width=45% height=45%>
 
-<img src="https://images.unsplash.com/photo-1603349206295-dde20617cb6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80" width=50% height=50%>
-
-_“The measure of intelligence is the ability to change.”_ 
+#### _“The measure of intelligence is the ability to change.”_  <br>
 — Albert Einstein
 
 <p align="left">
