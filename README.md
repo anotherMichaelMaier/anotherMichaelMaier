@@ -13,6 +13,11 @@ Cars              |   🏎️
 Cocktails         |   🍹   
 Series/Movies     |   🎬   
 
+![Albert Einstein](https://images.unsplash.com/photo-1603349206295-dde20617cb6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80)
+
+_“The measure of intelligence is the ability to change.”_ 
+— Albert Einstein
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=anotherMichaelMaier"
