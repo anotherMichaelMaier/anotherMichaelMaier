@@ -1,4 +1,4 @@
-# 👋🏼 Hello world, I'm Michael 🧑‍💻 
+# 👋🏼 Hello world, I'm Michael 👨🏼‍💻
 
   🍸  - I used to be a bartender <br>
   💻  - I’m currently learning how to code<br>
