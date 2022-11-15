@@ -8,7 +8,7 @@
 ### I'm intrested in:
 Topics|Emoji
 |:--|:-:|
-Games         | 🕹   
+Games         | 🎮   
 Cars          | 🏎️   
 Cocktails     | 🍸
 Series/Movies | 🎬   
