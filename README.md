@@ -1,8 +1,8 @@
 # 👋🏼 Hello world, I'm Michael 👨🏼‍💻
 
   🍸  - I used to be a bartender <br>
-  💻  - I’m currently learning how to code<br>
-      ↪️ @neueFische web development bootcamp
+  💻  - I’m currently looking for my first position as a junior front end developer<br>
+  👨🏼‍🎓  - @neueFische web development bootcamp
 
  
 ### I'm intrested in:
