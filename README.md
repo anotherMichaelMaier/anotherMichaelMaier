@@ -1,10 +1,5 @@
 # 👋🏼 Hello world, I'm Michael 👨🏼‍💻
 
-  💻  - I’m currently looking for my first position as a junior front end developer<br>
-  🍸  - I used to be a bartender <br>
-  👨🏼‍🎓  - neueFische web development bootcamp
-
- 
 ### I'm intrested in:
 Topics|Emoji
 |:--|:-:|
